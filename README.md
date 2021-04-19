@@ -6,12 +6,9 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on building apps
-- 🌱 I’m currently learning Kubernetes
-- 👯 I’m looking to collaborate on open source projects
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+- 🔭 I’m currently working on Calm-on.org open source project.
+- 👯 I’m looking to collaborate on open source projects.
+- 📫 How to reach me: contact@melliott.io
+- 😄 Pronouns: he/him
+- Portfolio website: https://melliott.io
+- Linkedin: https://www.linkedin.com/in/michael-elliott-20506885/
