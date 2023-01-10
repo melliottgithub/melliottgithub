@@ -8,6 +8,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Calm-on.org open source project.
 - 👯 I’m looking to collaborate on open source projects.
-- 📫 How to reach me: contact@dev-mellio.com
-- Portfolio website: https://dev-mellio.com
+- 📫 How to reach me: devmellio@gmail.com
+- Portfolio website: https://devmellio.com
 - Linkedin: https://www.linkedin.com/in/mellio/
